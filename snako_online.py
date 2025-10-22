@@ -203,7 +203,6 @@ import time
 import random
 import socket
 import json
-import netifaces as ni
 
 from math import ceil, sqrt
 def updateinput():
